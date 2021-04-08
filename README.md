@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ppingchn
-- 👀 I’m interested in python & network 
+- 👀 I’m interested in python && network 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Apple ARM
+- 💞️ I’m looking to collaborate on Apple // ARM
 - 📫 How to reach me choonhanunt@gmail.com
 
 <!---
